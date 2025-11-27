@@ -1,0 +1,13 @@
+{
+  "package": "network_graph_ipdp",
+  "version": "1.0.0",
+  "components": [
+    {
+      "id": "network_graph_ipdp",
+      "label": "Network Graph IPDP",
+      "description": "Force-directed network visualization using vis.js",
+      "icon": "icon.png",
+      "js": "main.js"
+    }
+  ]
+}

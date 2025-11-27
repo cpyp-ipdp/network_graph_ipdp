@@ -13,10 +13,9 @@
         "css": []
       },
       "icon": {
-        "path": "ipdp.png"
+        "path": "logo_ipdp_network_graph.png"
       },
-      "options": {
-      }
+      "options": {}
     }
   }
 }

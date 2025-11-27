@@ -1,23 +1,22 @@
 {
-  "name": "network_graph_ipdp",
-  "organization": "IPDP",
-  "description": "Network graph visualization using vis.js",
-  "logoUrl": "https://cpyp-ipdp.github.io/network_graph_ipdp/logo_ipdp_network_graph.png"
-
-  "resources": {
-    "js": [
-      "https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js",
-      "network-graph.js"
-    ],
-    "css": [
-      "https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css"
-    ]
-  },
-
+  "package": "network_graph_ipdp",
+  "version": "1",
   "components": {
     "network_graph_ipdp": {
-      "name": "Network Graph IPDP",
-      "type": "VISUALIZATION"
+      "id": "network_graph_ipdp",
+      "label": "Network Graph IPDP",
+      "description": "Force-directed network visualization using vis.js",
+      "resources": {
+        "js": [
+          "network-graph.js"
+        ],
+        "css": []
+      },
+      "icon": {
+        "path": "ipdp.png"
+      },
+      "options": {
+      }
     }
   }
 }

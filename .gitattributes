@@ -1,3 +1,0 @@
-*.json text eol=lf
-*.json linguist-language=JSON
-*.json application/json

@@ -2,7 +2,7 @@
   "name": "network_graph_ipdp",
   "organization": "IPDP",
   "description": "Network graph visualization using vis.js",
-  "logoUrl": "https://cpyp-ipdp.github.io/network_graph_ipdp/logo.png",
+  "logoUrl": "https://cpyp-ipdp.github.io/network_graph_ipdp/logo_ipdp_network_graph.png"
 
   "resources": {
     "js": [
